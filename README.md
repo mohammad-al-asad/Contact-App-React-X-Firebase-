@@ -1,8 +1,22 @@
-# React + Vite
+## Firebase-Contact-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- HOW TO RUN -->
+Please follow the below instructions to run this project in your machine:
 
-Currently, two official plugins are available:
+1. Clone this repository
+   ```sh
+   https://github.com/mohammad-al-asad/Firebase-Contact-App.git
+   ```
+2. Go into cloned directory
+   ```sh
+   cd "Firebase-Contact-App"
+   ```
+7. Run the app
+   ```sh
+   npm run dev
+   ```
+8. Now open the url
+    ```sh
+     http://localhost:5173/
+    ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
