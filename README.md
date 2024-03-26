@@ -1,7 +1,10 @@
 ## Firebase-Contact-App
 
-<!-- HOW TO RUN -->
-Please follow the below instructions to run this project in your machine:
+<h3>Go Live: https://mohammad-al-asad.github.io/Firebase-Contact-App/</h3>
+
+ <h3>How to run in your machine</h3>
+ 
+Please follow the below instructions:
 
 1. Clone this repository
    ```sh
